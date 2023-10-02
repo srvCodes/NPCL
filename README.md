@@ -10,6 +10,8 @@
 
 ![alt text](https://github.com/srvCodes/NPCL/blob/main/images/Picture1.png)
 
+&#8594; Modeling the stochasticities behind task-data generating processes he
+
 ## Why uncertainty-based CL task modeling?
 
 &#8594;  Besides achieving accuracies that are on par with the state-of-the-art deterministic models, NPCL offers the additional perks of lower model calibration error, enhanced few-shot replay performance, novel data identification capability, and instance-level model confidence evaluation [1]. Taking the lattermost example as a reference, here is a GIF of the Q-Q plots verifying the normality assumption of the top-two probability differences for NPCL:
