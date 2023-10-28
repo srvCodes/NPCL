@@ -1,5 +1,12 @@
 # NPCL: Neural Processes for Uncertainty-Aware Continual Learning
 
+This is the code repository for the paper:
+> **NPCL: Neural Processes for Uncertainty-Aware Continual Learning**
+> 
+> [Saurav Jha](http://sauravjha.com.np/), [Gong Dong](https://donggong1.github.io/index.html), [He Zhao](https://hezgit.github.io/), [Lina Yao](https://www.linayao.com/)
+> 
+> **NeurIPS 2023**
+
 ## What is NPCL? 
 
 &#8594; NPCL is a probabilistic continual learning (CL) model that relies on the neural processes - a class of meta learners exploiting data-driven priors - to model task distributions.
