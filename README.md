@@ -3,7 +3,7 @@
 This is the code repository for the paper:
 > **NPCL: Neural Processes for Uncertainty-Aware Continual Learning**
 > 
-> [Saurav Jha](http://sauravjha.com.np/), [Gong Dong](https://donggong1.github.io/index.html), [He Zhao](https://hezgit.github.io/), [Lina Yao](https://www.linayao.com/)
+> [Saurav Jha](http://sauravjha.com.np/), [Dong Gong](https://donggong1.github.io/index.html), [He Zhao](https://hezgit.github.io/), [Lina Yao](https://www.linayao.com/)
 > 
 > **NeurIPS 2023**
 
