@@ -1,4 +1,4 @@
-# NCPL: Neural Processes for Uncertainty-Aware Continual Learning
+# NPCL: Neural Processes for Uncertainty-Aware Continual Learning
 
 Code for our NeurIPS 2023 paper:
 
